@@ -1,0 +1,24 @@
+utterance,pos_neg,pos_neg_neutral
+What is your address?,postitive,neutral
+What days are you open?,positive,neutral
+What hours are you open?,postitive,neutral 
+How do I return this item?,postitive,neutral
+Your salesperson was inattentive.,negative,negative
+I am looking for an update on my order.,postitive,neutral
+Your customer service is great.,postitive,positive
+It took much too long to checkout.,negative,negative
+When are you getting this item back in stock.,postitive,neutral
+You never have anything available from the sales papers.,negative,negative
+You do not have enough employess.,negative,negative
+Can I speak to a manager?,negative,neutral
+Can I exchange this item for another color?,postitive,neutral
+Are you open on Thanksgiving?,postitive,neutral
+What are your holiday hours?,postitive,neutral
+What are you Black Friday Sale hours?,postitive,neutral
+ Can I speak with customer service?,postitive,neutral
+Do you offer lay-away?,postitive,neutral
+What form of payments do you take?,positive,neutral
+I was overcharged for an item.,negative,negative
+There were no available shopping carts.,negative,neutral
+
+
